@@ -1,6 +1,6 @@
 /*
-    Author:
-    Topic:
+    Author: Aryan Singh
+    Topic: Bitfields
 */
 #include<stdio.h>
 #include<stdlib.h>
