@@ -1,0 +1,7 @@
+../Src/UART_Driver.c:33:6:usart2_init	8	static
+../Src/UART_Driver.c:81:6:uart2_write	16	static
+../Src/UART_Driver.c:89:6:uart_Wstring	24	static
+../Src/UART_Driver.c:95:6:uart2_read	4	static
+../Src/UART_Driver.c:103:6:uart2_Rstring	24	static
+../Src/UART_Driver.c:115:13:uart_set_baudrate	24	static
+../Src/UART_Driver.c:119:17:Compute_UART_div_bd	16	static

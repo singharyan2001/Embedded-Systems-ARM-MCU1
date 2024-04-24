@@ -1,0 +1,7 @@
+../Src/UART_Driver.c:33:6:usart2_init	1
+../Src/UART_Driver.c:81:6:uart2_write	2
+../Src/UART_Driver.c:89:6:uart_Wstring	2
+../Src/UART_Driver.c:95:6:uart2_read	2
+../Src/UART_Driver.c:103:6:uart2_Rstring	3
+../Src/UART_Driver.c:115:13:uart_set_baudrate	1
+../Src/UART_Driver.c:119:17:Compute_UART_div_bd	1
