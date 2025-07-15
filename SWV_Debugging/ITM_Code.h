@@ -4,7 +4,7 @@
 //					This function will not work for ARM Cortex M0/M0+
 //					If you are using Cortex M0, then you can use semihosting feature of openOCD
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+#include <stdint.h>
 
 //Debug Exception and Monitor Control Register base address
 #define DEMCR        			*((volatile uint32_t*) 0xE000EDFCU )
